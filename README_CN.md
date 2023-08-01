@@ -12,6 +12,7 @@ base on mpv player
 # pacman -S git python $MINGW_PACKAGE_PREFIX-{pkg-config,gcc}
 # pacman -S $MINGW_PACKAGE_PREFIX-{ffmpeg,libjpeg-turbo,lua51}
 
+/// mingw64.exe
 1.编译源代码 git clone https://github.com/mpv-player/mpv.git
 # git clone https://github.com/cunyx98/mpv-player.git
 # cd mpv
